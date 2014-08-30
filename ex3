@@ -1,0 +1,10 @@
+/*Activity 2a:  Find below a function that sums two integers. Write an appropriate main( ) that calls sum_int( ) 
+and make it a complete program.*/
+
+
+int sum_int( int a, int b)
+{
+
+  return a + b;
+
+}
